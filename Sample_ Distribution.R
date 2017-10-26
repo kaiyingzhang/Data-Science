@@ -1,3 +1,10 @@
+Use cases and R script for Distribution：
+# GAMMA DISTRIBUTION
+# NORMAL DISTRIBUTION
+# BETA Distribution
+# Chi-SQUARE Distribution
+# UNIFORM Distribution
+# POISSON Distribution
 
 #-------------------------------------------------------------------------------------------------
 
